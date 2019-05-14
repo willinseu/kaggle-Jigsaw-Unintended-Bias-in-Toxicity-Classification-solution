@@ -5,4 +5,4 @@
 二、v2_bilstm_embedding_aux.ipynb  
 提升版本。是https://www.kaggle.com/thousandvoices/simple-lstm?scriptVersionId=12556909 的notebook版本。 
 lb0.93左右。使用了glove/fasttesxt等embedding模型，考虑了多输出的Bilstm模型。 
-配套教程：正在更新。
+配套教程：https://blog.csdn.net/ssswill/article/details/90178336
